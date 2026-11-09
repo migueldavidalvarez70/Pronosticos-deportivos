@@ -1,7 +1,1 @@
-tensorflow
-numpy
-pandas
-scikit-learn
-joblib
-streamlit
-soccerdata
+
